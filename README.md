@@ -1,5 +1,5 @@
 # classicmacsystemsounds
-Mac classic system sounds in both wave and wav format
+Mac classic system sounds in wav format
 Theese were grabbed from https://mac-classic.com/downloads/system-sounds but they made it so hard to get the actual system sounds
 ## how i converted them
 1. go to https://mac-classic.com/downloads/system-sounds and download "Original Mac OS Sound Files (Including .WAVE formats)"
